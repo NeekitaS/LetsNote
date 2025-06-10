@@ -17,6 +17,6 @@ Check out the live version here: [Let’s Note](https://letsnote-frontend.vercel
 
 ## Repositories
 
-- **Frontend Repository:** [GitHub Link](https://github.com/DineshK3012/letsnote_frontend)
-- **Backend Repository:** [GitHub Link](https://github.com/DineshK3012/letsnote_backend)
+- **Frontend Repository:** [GitHub Link](https://github.com/NeekitaS/LetsNote/tree/main/frontend)
+- **Backend Repository:** [GitHub Link](https://github.com/NeekitaS/LetsNote/tree/main/backend)
 
